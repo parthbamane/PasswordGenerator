@@ -1,17 +1,47 @@
-# React + Vite
+# 🔐 Password Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive **Password Generator** built with **React** and **Tailwind CSS**.  
+It helps users generate secure, customizable passwords with ease.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- Generate strong and random passwords
+- Customize password length
+- Include/exclude:
+  - ✅ Uppercase letters  
+  - ✅ Lowercase letters  
+  - ✅ Numbers  
+  - ✅ Special symbols  
+- One-click **copy to clipboard**
+- Clean and responsive UI with Tailwind CSS
+- Real-time password updates
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
+- **React** – Frontend framework
+- **Tailwind CSS** – Styling and responsive design
+- **JavaScript (ES6+)**
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# PasswordGenerator
+## 📸 Screenshots
+(Add screenshots of your app here)
+
+---
+
+## ⚡ Installation & Setup
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/your-username/password-generator.git
+
+# 2. Navigate into the project folder
+cd password-generator
+
+# 3. Install dependencies
+npm install
+
+# 4. Run the development server
+npm run dev
