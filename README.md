@@ -23,12 +23,6 @@ It helps users generate secure, customizable passwords with ease.
 - **React** – Frontend framework
 - **Tailwind CSS** – Styling and responsive design
 - **JavaScript (ES6+)**
-
----
-
-## 📸 Screenshots
-(Add screenshots of your app here)
-
 ---
 
 ## ⚡ Installation & Setup
